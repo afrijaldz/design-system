@@ -433,8 +433,8 @@ In props `fields` contain
 | `label?`     | `String`         | Field's Label                                                               |
 | `width?`     | `Number`         | Field's width in percent                                                    |
 | `formatter?` | `Function`       | Field's formatter, it receives `value` and `item` params and returning string value  |
-| `thClass?`   | `HTMLAttributes` | `HTMLAttributes` of `class` to use in table column cell                     |
-| `tdClass?`   | `HTMLAttributes` | `HTMLAttributes` of `class` to use in table head cell                       |
+| `thClass?`   | `HTMLAttributes` | `class` of `HTMLAttributes` to use in table column cell                     |
+| `tdClass?`   | `HTMLAttributes` | `class` of `HTMLAttributes` to use in table head cell                       |
 
 
 ### Slots
